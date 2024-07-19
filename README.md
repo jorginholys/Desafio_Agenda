@@ -1,10 +1,10 @@
-Desafio Python (Módulo 1) - RocketSeat
+#Desafio Python (Módulo 1) - RocketSeat
 Este desafio é parte das atividades da trilha de formação Python da RocketSeat. Mais informações e como executar o programa podem ser encontrado abaixo
 
-Sobre o desafio
+#Sobre o desafio
 Nesse desafio desenvolveremos uma agenda para salvar, editar, deletar e marcar um contato como favorito. O resultado da aplicação deve ser apresentado no terminal, assim como foi visto no módulo “Introdução ao Python”.
 
-Regras da aplicação
+#Regras da aplicação
  A aplicação deve iniciar mostrando uma lista de opções do que é possível fazer com o app e permitir que o usuário digite uma escolha para iniciar a aplicação.
  Deve ser possível adicionar um contato
 O contato pode ter os dados:
